@@ -1,0 +1,26 @@
+{
+  "name": "chevalier",
+  "version": "0.0.1",
+  "description": "Kafka Node.js example",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.2.0",
+    "kafka-node": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetrykowskiM/chevalier.git"
+  },
+  "author": "Simon Siegert",
+  "license": "unlicensed",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/PetrykowskiM/chevalier/issues"
+  },
+  "homepage": "https://github.com/PetrykowskiM/chevalier#readme"
+}
